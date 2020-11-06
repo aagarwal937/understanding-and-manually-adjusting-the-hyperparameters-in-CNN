@@ -1,0 +1,1 @@
+# understanding-and-manually-adjusting-the-hyperparameters-in-CNN
